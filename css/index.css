@@ -1,3 +1,6 @@
 .todo-component .todos-container .done {
   text-decoration: line-through;
 }
+.todo-component .todos-container .hide {
+  display: none;
+}
